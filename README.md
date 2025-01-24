@@ -1,2 +1,7 @@
-# papers
-A place to collect, hold and distribute my materials used in my published papers
+# Репозитарий для хранения и предоставления матералов из опубликованных сатетей
+
+## Дата - Название журнала
+
+### Тема: Название статьи
+
+Аннотация
